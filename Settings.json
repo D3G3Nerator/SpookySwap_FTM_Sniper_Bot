@@ -1,0 +1,15 @@
+{
+    "metamask_address": "YOUR-ADDRESS",
+    "metamask_private_key": "YOUR-PRIVATE-KEY" ,
+
+    "RPC": "https://rpc.ftm.tools/",
+    "GWEI_GAS": 250,
+
+    "MaxTXFeeFTM": 1,
+    "Slippage": 20,
+
+    "MinLiquidityFTM": 100,
+
+    "MaxSellTax": 25,
+    "MaxBuyTax": 15
+}
