@@ -1,7 +1,7 @@
 # 🚀 SpookySwap FTM Sniper Bot 🚀
 ![TradingTigers](https://trading-tigers.com/logos/TradingTigers.png)  
 Web3 SpookySwap Sniper && Take Profit/StopLose bot written in python3, Please note the license conditions!
-### The first Binance Smart Chain sniper bot with Honeypot checker!  
+### The first Fantom Chain sniper bot with Honeypot checker!  
 ![Sniper](https://trading-tigers.com/logos/preview001.png)  
 # Infos
 This Tool only buys/sells with/to FTM but use Multi Hops to get the best Output!
