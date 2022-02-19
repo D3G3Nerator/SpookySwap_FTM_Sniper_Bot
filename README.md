@@ -2,7 +2,7 @@
 ![TradingTigers](https://trading-tigers.com/logos/TradingTigers.png)  
 Web3 SpookySwap Sniper && Take Profit/StopLose bot written in python3, Please note the license conditions!
 ### The first Fantom Chain sniper bot with Honeypot checker!  
-![Sniper](https://trading-tigers.com/logos/preview001.png)  
+![Sniper](https://trading-tigers.com/logos/FTM-SNIPER-TERM.png)  
 # Infos
 This Tool only buys/sells with/to FTM but use Multi Hops to get the best Output!
 Attention, You pay [0.7% Tax](https://docs.trading-tigers.com/tokenomics/tokenomics) on your swap amount!
