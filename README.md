@@ -11,7 +11,7 @@ Attention, You pay [0.7% Tax](https://docs.trading-tigers.com/tokenomics/tokenom
 ![Sniper](https://trading-tigers.com/logos/preview002.png)  
 
 # Download
-### If you are not familiar with Python please have a look at [Releases](https://github.com/Trading-Tiger/SpookySwap_BSC_Sniper_Bot/releases), there you can download Windows executable.
+### If you are not familiar with Python please have a look at [Releases](https://github.com/Trading-Tiger/SpookySwap_FTM_Sniper_Bot/releases), there you can download Windows executable.
 
 ### Setup your Address and secret key in Settings.json and Run main-GUI.exe.
 
@@ -31,8 +31,8 @@ You Need to install Visual Studio BuildTools & Python3
 
 Clone Repo:  
 ```shell
-git clone https://github.com/Trading-Tiger/SpookySwap_BSC_Sniper_Bot
-cd SpookySwap_BSC_Sniper_Bot
+git clone https://github.com/Trading-Tiger/SpookySwap_FTM_Sniper_Bot
+cd SpookySwap_FTM_Sniper_Bot
 ```
 
 Install Requirements:  
