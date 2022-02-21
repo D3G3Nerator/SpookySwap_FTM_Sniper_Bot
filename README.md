@@ -5,8 +5,13 @@ Web3 SpookySwap Sniper && Take Profit/StopLose bot written in python3, Please no
 ![Sniper](https://trading-tigers.com/logos/FTM-SNIPER-TERM.png)  
 # Infos
 This Tool only buys/sells with/to FTM but use Multi Hops to get the best Output!
-Attention, You pay [0.7% Tax](https://docs.trading-tigers.com/tokenomics/tokenomics) on your swap amount!
+Attention, You pay [0.77% Tax](https://docs.trading-tigers.com/tokenomics/tokenomics) on your swap amount!
 
+# SUPPORT & HELP
+Visit our community for help or questions, on Discord or Github you can open tickets!
+<div><a href="https://discord.gg/Qc6y9kyCgU" > <img src="https://trading-tigers.com/logos/joinDiscord.png" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/TradingTigersChat" > <img src="https://trading-tigers.com/logos/joinTelegram.png" height="80"></a>
+  
 ### Support Us&You by Buying [TradingTigers Token](https://bscscan.com/token/0x04068da6c83afcfa0e13ba15a6696662335d5b75)  
 ![Sniper](https://trading-tigers.com/logos/FTM-SNIPER.png)  
 
